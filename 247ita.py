@@ -7,7 +7,7 @@ import time
 
 # Costanti
 
-LINKMFP = "https://punta-swagghino.hf.space/"
+LINKMFP = "https://punta-swagghino.hf.space"
 PASSWORD = "she21"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
